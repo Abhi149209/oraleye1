@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173035726470",
+    "project_id": "oral-eye-b7e28",
+    "storage_bucket": "oral-eye-b7e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173035726470:android:0394ecb5b0c1b8b2b75307",
+        "android_client_info": {
+          "package_name": "com.example.oraleye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173035726470-18fgvimkcbu9ud4g21vhlaodpfvp5l3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oraleye",
+            "certificate_hash": "2504f388cb2cae4df835a46df1247a4a276d6595"
+          }
+        },
+        {
+          "client_id": "173035726470-qlbe6r7dpq7sqc690btc3g6v5cuamcv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhG-RW-51RJGlw13UYlGrz_iDa8t9ikI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173035726470-qlbe6r7dpq7sqc690btc3g6v5cuamcv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
